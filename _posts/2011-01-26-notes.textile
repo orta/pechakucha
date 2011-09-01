@@ -1,3 +1,9 @@
+
+<div class="slide">
+
+h1. tchau
+
+</div>
 <div class="slide">
 
 h2. Notes
@@ -27,7 +33,7 @@ h3.  Alternatives
 
   * we british have morris dancing
   * irish have riverdance / ceiligh
-  * 
+  * the welsh almost lost all traces of their folk dancing, and now have a few jigs and is mainly barn dancing
 
 h3.  Current
 
@@ -36,6 +42,9 @@ h3.  Current
   * "White Rose Morris Men":http://www.whiterosemorrismen.org.uk/ - Morris Dancing in Glenholt road Chursh, like 10 minutes walk from the media center
 
 a good local directory is "Yorkshire Folk Arts":http://www.yorkshire-folk-arts.com/directory/teams_west.html
+
+</div>
+<div class="slide">
 
 h3. Important 2 Person Dance Moves
 
