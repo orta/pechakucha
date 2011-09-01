@@ -10,12 +10,12 @@ h1(start). start
 
 
 <div class="slide">
-  <img src="assets/images/cowpeople.jpg" alt="Me">
+<img src="assets/images/cowpeople.jpg" alt="Me" width="640" height="480">
 </div>
 
 
 <div class="slide">
-  <img src="assets/images/me.jpg" alt="Me">
+<img src="assets/images/me.jpg" alt="Me" width="640" height="480">
 </div>
 
 <div class="slide">
