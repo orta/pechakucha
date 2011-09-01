@@ -79,19 +79,13 @@ layout: nil
         </style>
     </head>
     <body>
+      
+      <!-- <audio src="assets/mp3s/dancing.mp3" preload="auto" autoplay autobuffer></audio> -->
+      
         {% for post in site.posts %}
             
             <!-- {{ post.title }} - {{post.slide }} --> 
-            
-            {% if post.slide == no  %}
               {{ post.content }}
-            {% endif %}
-
-            {% if post.slide %}
-              <div class="slide">
-                 {{ post.content }}
-              </div>
-            {% endif %}
 
         {% endfor %}
         <div class="layout" data-name="default">
