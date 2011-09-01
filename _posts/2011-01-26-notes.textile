@@ -1,19 +1,53 @@
-
 <div class="slide">
-  History - 
+
+h2. Notes
+
+h3. What is it?
+
+  * partnered folk dance
+  * popular in america, found in england
+  * takes ideas from ballroom and line dancing
+  * simple music, has a caller
+  * usually 16 16 beats 
+  
+h3. Contra History
 
 
-  Alternatives -
+  * a mix of english dances from the end of 17th century
+  * fashionable till mid 19th century, where square dancing and couples were considered cooler
+  * often dances mix with walltzes or hambo's, swedish folk dances
 
-
-  Modern Takes - 
-
-  Time Gentlemen Please - Huddersfield based dance troupe mixing hip-hop and folk dances. http://www.tgpdanceshow.co.uk/
-
-
-  Dance Moves - 
-    Do Se Do
 </div>
 
+<div class="slide">
+
+h2. Notes
+
+h3.  Alternatives
+
+  
+
+h3.  Modern Takes
+
+  * "Time Gentlemen Please":http://www.tgpdanceshow.co.uk/ - Huddersfield based dance troupe mixing hip-hop and folk dances. 
 
 
+h3. Important 2 Person Dance Moves
+
+  * Allemande - thumbs up spin
+  * Do Se Do - around each other facing the same direction
+  * promenade - man shows off the lady and walks her around
+  
+  * swing - ballroom swing, used to fill in time gaps
+  * balance - a step towards your partner and a stomp back
+  * gypsy - stare and spin
+
+</div>
+
+<div class="slide">
+
+h2. Credits
+
+  Audio from Beautiful Contra Folk Dancing form the 1960s
+
+</div>
