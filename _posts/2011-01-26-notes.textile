@@ -10,8 +10,8 @@ h3. What is it?
   * simple music, has a caller
   * usually 16 16 beats 
   
+  
 h3. Contra History
-
 
   * a mix of english dances from the end of 17th century
   * fashionable till mid 19th century, where square dancing and couples were considered cooler
@@ -25,12 +25,17 @@ h2. Notes
 
 h3.  Alternatives
 
-  
+  * we british have morris dancing
+  * irish have riverdance / ceiligh
+  * 
 
-h3.  Modern Takes
+h3.  Current
 
   * "Time Gentlemen Please":http://www.tgpdanceshow.co.uk/ - Huddersfield based dance troupe mixing hip-hop and folk dances. 
+  * "Slubbing Billys":http://www.slubbingbillys.org.uk/ - A Morris dancing gorup that is based in slaithwaite
+  * "White Rose Morris Men":http://www.whiterosemorrismen.org.uk/ - Morris Dancing in Glenholt road Chursh, like 10 minutes walk from the media center
 
+a good local directory is "Yorkshire Folk Arts":http://www.yorkshire-folk-arts.com/directory/teams_west.html
 
 h3. Important 2 Person Dance Moves
 
@@ -39,7 +44,7 @@ h3. Important 2 Person Dance Moves
   * promenade - man shows off the lady and walks her around
   
   * swing - ballroom swing, used to fill in time gaps
-  * balance - a step towards your partner and a stomp back
+  * balance - a step towards your partner and a stomp then back
   * gypsy - stare and spin
 
 </div>
