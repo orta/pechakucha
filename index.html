@@ -61,14 +61,22 @@ layout: nil
                     //  - margin, the fraction of screen to use as slide margin, defaults to 0.15
                 });
                 
-                //pecha kucha mode
-                setTimeout(nextSlide, 20000)
                 function nextSlide(){
                   $(".active").click();
                   $(".active").click();
                   setTimeout(nextSlide, 20000)
-                }
+                }                  
+                
+                
+                //pecha kucha start mode
+                $(".start").click(function(){
+                  setTimeout(nextSlide, 20000);
+                  $("#dance")[0].play();
+                  $(this).remove();
+                })
             });
+            
+
         </script>
         <!-- Custom style for this deck -->
         <style type="text/css">
@@ -76,11 +84,14 @@ layout: nil
                 border: 0;
                 background: 0;
             }
+            h1{
+              margin-top: 5em;
+            }
         </style>
     </head>
     <body>
       
-      <!-- <audio src="assets/mp3s/dancing.mp3" preload="auto" autoplay autobuffer></audio> -->
+      <audio id="dance" src="assets/mp3s/dancing.mp3" preload="auto"  autobuffer></audio>
       
         {% for post in site.posts %}
             

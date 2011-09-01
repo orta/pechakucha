@@ -1,15 +1,26 @@
----
----
+
 
 <div class="slide">
 
 h1. i am "@orta":http://twitter.com/orta
 
+h1(start). start
+
 </div>
 
 
 <div class="slide">
+  <img src="assets/images/cowpeople.jpg" alt="Me">
+</div>
 
 
+<div class="slide">
+  <img src="assets/images/me.jpg" alt="Me">
+</div>
+
+<div class="slide">
+
+h1. History
 
 </div>
+
