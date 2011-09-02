@@ -3,6 +3,14 @@
 </div>
 
 <div class="slide">
+<img src="assets/images/scottish.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+<img src="assets/images/welsh.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
 <img src="assets/images/riverdance.jpg" alt="Me" width="640" height="480">
 </div>
 
