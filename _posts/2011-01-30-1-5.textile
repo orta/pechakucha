@@ -25,7 +25,3 @@ h1(start). start
 h1. History
 
 </div>
-
-<div class="slide">
-<img src="assets/images/folkfestival.jpg" alt="Me" width="640" height="480">
-</div>

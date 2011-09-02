@@ -7,5 +7,27 @@
 </div>
 
 <div class="slide">
-<img src="assets/images/demonbarber.jpg" alt="Me" width="640" height="480">
+
+h1. Locals
+
+* "Slubbing Billys":http://www.slubbingbillys.org.uk/ - Slaithwaite based Morris Dancing group.
+
+* "White Rose Morris Men":http://www.whiterosemorrismen.org.uk/ - Morris Dancing in Glenholt road Church (Trinity street), like 5 minutes walk from the media center.
+
 </div>
+
+<div class="slide">
+<img src="assets/images/demonbarber.jpg" alt="Me" width="640" height="480">
+
+h2. Time Gentlemen Please
+
+</div>
+
+<div class="slide">
+<img src="assets/images/coconutters.jpg" alt="Me" width="640" height="480">
+
+h2. Bacup Cocco-nutters
+
+source : "bobfrance":http://www.flickr.com/photos/bobfrance/5646390073/
+</div>
+
