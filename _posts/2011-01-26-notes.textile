@@ -27,7 +27,7 @@ h3. History
   * 1883 BANKING 
   * Public-Domain - Quakers - Atlantic City
   * "Ghettopoly":http://www.usatoday.com/money/industries/retail/2003-10-23-ghettopoly_x.htm
-  
+    
   
 </div>
 
@@ -54,15 +54,5 @@ h3. Related Games
 
   * "Pit Game":https://en.wikipedia.org/wiki/Pit_(game)
   * "BANKING":http://www.spotlightongames.com/list/parker.html
-
-</div>
-
-<div class="slide">
-
-h2. Credits
-
-Audio from "Beautiful Contra Folk Dancing":https://www.youtube.com/watch?v=pZubTju7g_s from the 1960s
-
-Lots of ideas taken from "Still Folk Dancing - After All These Years":http://www.youtube.com/watch?v=D1pDz_ZOG3g - thanks BBC4
 
 </div>
