@@ -8,47 +8,35 @@ h1. tchau
 
 h2. Notes
 
-h3. What is it?
+h3. Patents 
 
-  * partnered folk dance
-  * popular in america, found in england
-  * takes ideas from ballroom and line dancing
-  * simple music, has a caller
-  * usually 16 16 beats 
+  * "1904 - L. J. Magie ":http://www.google.com/patents?id=t9kqAAAAEBAJ&pg=PA1&dq=748,626&source=gbs_selected_pages&cad=2#v=onepage&q=748%2C626&f=false
+  * "1924 - E. M. Philips ":http://www.google.com/patents?id=lD1cAAAAEBAJ&zoom=4&dq=the%20landlord's%20game&pg=PA1#v=onepage&q=the%20landlord's%20game&f=false
+  * "1935 - C.B. Darrow ":http://www.google.com/patents?id=rTR-AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false
+
+
+h3. Monopoly by C.B.Darrow
+
+  * "Patent 2,026, 082":http://www.google.com/patents?id=rTR-AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false
+  * Parker Bros distributed in 1935
+  * 500 Million people have played*
   
   
-h3. Contra History
-
-  * a mix of english dances from the end of 17th century
-  * fashionable till mid 19th century, where square dancing and couples were considered cooler
-  * often dances mix with walltzes or hambo's, swedish folk dances
-
 </div>
 
 <div class="slide">
 
 h2. Notes
 
-h3.  Alternatives
+  *  "Pit Game":https://en.wikipedia.org/wiki/Pit_(game)
 
-  * we british have morris dancing
-  * irish have riverdance / ceiligh
-  * the welsh almost lost all traces of their folk dancing, and now have a few jigs and is mainly barn dancing
+h3.  Anti-Monopoly
 
-h3.  Close By
-
-  * "Time Gentlemen Please":http://www.tgpdanceshow.co.uk/ - Huddersfield based dance troupe mixing hip-hop and folk dances. 
-  * "Slubbing Billys":http://www.slubbingbillys.org.uk/ - A Morris dancing gorup that is based in slaithwaite
-  * "White Rose Morris Men":http://www.whiterosemorrismen.org.uk/ - Morris Dancing in Glenholt road Chursh, like 10 minutes walk from the media center
-
-h3. Notable
-
-  * "Bampton Morris Dancers":http://www.bamptonmorris.co.uk/, 3 teams, spread out among different gardens
-  * "Sowerby Bridge Rushbearing":http://www.rushbearing.com/ - I lived here =)
-
-a good local directory is "Yorkshire Folk Arts":http://www.yorkshire-folk-arts.com/directory/teams_west.html
-
+  * "Anti-Monopoly":http://antimonopoly.com/the-book/book-excerpt/
+  * Public-Domain - Quakers - Atlantic City
+  
 </div>
+
 <div class="slide">
 
 h3. Important 2 Person Dance Moves

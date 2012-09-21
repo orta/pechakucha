@@ -10,18 +10,23 @@ h1(start). start
 
 
 <div class="slide">
-<img src="assets/images/dance.jpg" alt="Me" width="640" height="480">
+<img src="assets/images/monopoly/moneybags.jpg" alt="Me" width="640" height="480">
 </div>
 
 
 <div class="slide">
-<img src="assets/images/cowpeople.jpg" alt="Me" width="640" height="480">
-<p><a href="http://www.flickr.com/photos/emster214/320049965/in/photostream/">source: emster214</a>
+<img src="assets/images/monopoly/landlords.jpg" alt="Me" width="640" height="480">
 </p>
 </div>
 
 <div class="slide">
 
-h1. History
+  <img src="assets/images/monopoly/monopoly_original.jpg" alt="Me" width="640" height="480">
+
+</div>
+
+<div class="slide">
+
+  <img src="assets/images/monopoly/chance.jpg" alt="Me" width="640" height="480">
 
 </div>
