@@ -10,16 +10,23 @@ h2. Notes
 
 h3. Patents 
 
-  * "1904 - L. J. Magie ":http://www.google.com/patents?id=t9kqAAAAEBAJ&pg=PA1&dq=748,626&source=gbs_selected_pages&cad=2#v=onepage&q=748%2C626&f=false
-  * "1924 - E. M. Philips ":http://www.google.com/patents?id=lD1cAAAAEBAJ&zoom=4&dq=the%20landlord's%20game&pg=PA1#v=onepage&q=the%20landlord's%20game&f=false
-  * "1935 - C.B. Darrow ":http://www.google.com/patents?id=rTR-AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false
+  * "1904 - L. J. Magie":http://www.google.com/patents?id=t9kqAAAAEBAJ&pg=PA1&dq=748,626&source=gbs_selected_pages&cad=2#v=onepage&q=748%2C626&f=false
+  * "1924 - E. M. Philips":http://www.google.com/patents?id=lD1cAAAAEBAJ&zoom=4&dq=the%20landlord's%20game&pg=PA1#v=onepage&q=the%20landlord's%20game&f=false
+  * "1935 - C.B. Darrow":http://www.google.com/patents?id=rTR-AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false
 
 
 h3. Monopoly by C.B.Darrow
 
   * "Patent 2,026, 082":http://www.google.com/patents?id=rTR-AAAAEBAJ&printsec=abstract&zoom=4#v=onepage&q&f=false
   * Parker Bros distributed in 1935
-  * 500 Million people have played*
+  * 500 Million people have played
+  
+h3. History
+  
+  * Stock Market Crash of 1929 - "source":http://www.collectorsweekly.com/articles/occupy-boardwalk-how-greed-changed-games/
+  * 1883 BANKING 
+  * Public-Domain - Quakers - Atlantic City
+  * "Ghettopoly":http://www.usatoday.com/money/industries/retail/2003-10-23-ghettopoly_x.htm
   
   
 </div>
@@ -28,26 +35,25 @@ h3. Monopoly by C.B.Darrow
 
 h2. Notes
 
-  *  "Pit Game":https://en.wikipedia.org/wiki/Pit_(game)
-
+h3. Misc
+  
+  * The longest game in Monopoly history was played for "70 straight days.":http://gypsumgirl.hubpages.com/hub/Childhood_Games
+  * "Monopoly film by ridley scott":http://www.worstpreviews.com/headline.php?id=4473&count=0
+  * "Make you own":http://www.tdcgames.com/MYO.htm
+  
+  
 h3.  Anti-Monopoly
 
   * "Anti-Monopoly":http://antimonopoly.com/the-book/book-excerpt/
-  * Public-Domain - Quakers - Atlantic City
   
 </div>
 
 <div class="slide">
 
-h3. Important 2 Person Dance Moves
+h3. Related Games
 
-  * Allemande - thumbs up spin
-  * Do Se Do - around each other facing the same direction
-  * promenade - man shows off the lady and walks her around
-  
-  * swing - ballroom swing, used to fill in time gaps
-  * balance - a step towards your partner and a stomp then back
-  * gypsy - stare and spin
+  * "Pit Game":https://en.wikipedia.org/wiki/Pit_(game)
+  * "BANKING":http://www.spotlightongames.com/list/parker.html
 
 </div>
 
