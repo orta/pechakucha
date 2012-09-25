@@ -1,11 +1,6 @@
 
 <div class="slide">
 
-h1. tchau
-
-</div>
-<div class="slide">
-
 h2. Notes
 
 h3. Patents 
@@ -55,4 +50,97 @@ h3. Related Games
   * "Pit Game":https://en.wikipedia.org/wiki/Pit_(game)
   * "BANKING":http://www.spotlightongames.com/list/parker.html
 
+</div>
+
+<div class="slide">
+  
+  Germantown - Pennsylvania
+  Post stock crash 1929
+
+  Charles Darrow - "table cloth"
+  Denied by Parker Brothers
+    * "52 Fundamental Errors"
+    * "Too Complicated"
+    * "No Goal"
+    
+  Ignored, printed 5k 
+  Made him a millionaire
+
+</div>
+
+<div class="slide">
+<pre>
+      
+  Lizzie J Magie - 1904
+  "Georgism" - Land-Tax
+    - Renting land only helped the Landlords
+      at the expense of the majority
+    - A Single tax based on land ownership
+
+  She wanted to teach Georgism via a game
+  Places were abstract name
+  Different aim. It showed how the landlords have an advantage.
+  
+</pre>  
+</div>
+
+<div class="slide">
+<pre>
+
+  Dan Layman - 1920s
+    A student, plays game
+    decides to introduce the game at home under a differnt name "Finance"
+  
+  Dan's housemate tries patenting ( Todd )
+    http://landlordsgame.info/games/mn-todd/mn-Todd_Testimony.pdf
+    Lawyer advises they not do it
+      "Patents are for inventors and you didn't invent it."
+    Copywrote their own rules ( double rent when owning all, 50 quid out of the bank. )
+    Teaches Mr Darrow 
+</pre>
+</div>
+
+<div class="slide">
+<pre>
+
+  1935. Parker Bros selling 20,000 a month after signing
+    Parker Bros buy The Landlord game for $500
+    Bought Finance from 10k, Dan had sold it for 200
+    "it wasn't clear how Mr Darrow could invent a game they played 10 years ago"
+    Sued "Inflation" in 1936, settled out of court paying 10k
+
+</pre>
+</div>
+
+<div class="slide">
+<pre>
+    
+  1973. Anti-Monopoly
+    Ralph Aspach
+    
+    Anti-Monopoly is set after Monopoly. After someone won
+    Players aim to return the free market
+    Reviews on Amazon not amazing
+    
+    Sued for 10 years, won sold 500,000
+    Released a new version
+
+</pre>
+</div>
+
+<div class="slide">
+<pre>
+
+  Public Domain for 30 years, private for 77
+  Chess 1500, form india. 
+  
+  The Landlord's Game
+    Politcally Charged
+    Economy at the time, no land tax nor income tax
+    No mortgages, full prices
+    The idea is the rich get richer off the poor
+    
+  Made monopoly during depression, no tokens. 
+
+</pre>
 </div>

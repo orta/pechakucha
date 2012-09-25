@@ -10,23 +10,104 @@ h1(start). start
 
 
 <div class="slide">
-<img src="assets/images/monopoly/moneybags.jpg" alt="Me" width="640" height="480">
-</div>
-
-
-<div class="slide">
-<img src="assets/images/monopoly/landlords.jpg" alt="Me" width="640" height="480">
-</p>
+  <img src="assets/images/monopoly/me.jpg" alt="Me" width="640" height="480">
 </div>
 
 <div class="slide">
+  <img src="assets/images/monopoly/moneybags.jpg" alt="Me" width="640" height="480">
+</div>
 
+<div class="slide">
   <img src="assets/images/monopoly/monopoly_original.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide"> 
+  <img src="assets/images/monopoly/chance.jpg" alt="Me" width="640" height="480">
+</div>
+
+
+<!-- 5 -->
+
+<div class="slide">
+  <img src="assets/images/monopoly/horse.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+  <img src="assets/images/monopoly/depression.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+
+h1. People
+
+* Lizzie J Magie
+* Dan Layman  
+* Charles Todd
+* Charles Darrow
+
+</div>
+
+<div class="slide">
+  <img src="assets/images/monopoly/money.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+  <img src="assets/images/monopoly/magie-landlord.jpg" alt="Me" width="640" height="480">
+</div>
+
+<!-- 10 -->
+
+<div class="slide">
+  <img src="assets/images/monopoly/landlords.jpg" alt="Me" width="640" height="480">
+</div>
+
+
+<div class="slide">
+  <img src="assets/images/monopoly/landlords-game.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+
+h1. "Patents are for Inventors"
 
 </div>
 
 <div class="slide">
 
-  <img src="assets/images/monopoly/chance.jpg" alt="Me" width="640" height="480">
+h1. Courts
+* Bought Landlord game $200
+* Bought Finance for $10,000
+* Sued Inflation, counter sued, settled. $10,000.
+
+</div>
+
+<!-- 15 -->
+
+<div class="slide">
+  <img src="assets/images/monopoly/court-room.jpg" alt="Me" width="640" height="480">
+</div>
+
+
+<div class="slide">
+<img src="assets/images/monopoly/anti-monopoly.jpg" alt="Me" width="640" height="480">
+
+h2. Anti-Monopoly - 1975
+
+  Ralph Aspach
+
+</div>
+
+<div class="slide">
+  <img src="assets/images/monopoly/anti-2.jpg" alt="Me" width="640" height="480">
+</div>
+
+<div class="slide">
+  <img src="assets/images/monopoly/deal.jpg" alt="Me" width="640" height="480">
+</div>
+
+
+<div class="slide">
+
+h1. fin. Hopefully.
 
 </div>
